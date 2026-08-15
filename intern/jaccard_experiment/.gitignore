@@ -1,0 +1,5 @@
+logs/
+data/llava_bench/
+__pycache__/
+*.pyc
+
