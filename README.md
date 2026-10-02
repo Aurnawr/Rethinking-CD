@@ -155,7 +155,7 @@ If you find this work useful, please cite:
 ```bibtex
 @inproceedings{rethinkingcd2026,
   title     = {Rethinking the Effectiveness of Contrastive Decoding in Mitigating Hallucinations in MLLMs},
-  author    = {TODO: author list},
+  author    = {Arnav Bendre, Guneesh Gupta, Shreyansh Modi, Kavish Grover, Chayan Aggarwal},
   booktitle = {NeurIPS 2026 Workshop on VLM4RWD},
   year      = {2026}
 }
